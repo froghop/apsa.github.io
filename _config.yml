@@ -11,34 +11,41 @@ people:
 - name: Masha Bondarenko
   pic: 2
   position: President
+  year: Senior - EECS
 
 - name: Lavanya Gupta
   pic: 2
   position: Academic Chair
+  year: Senior - MCB Emphasis Immunology
 
 - name: Kate Yang
   pic: 3
   position: Professional Development Chair
+  year: Freshman - Public Health
 
-- name: Kate Yang
+- name: Isa Vivona
   pic: 3
-  position: Professional Development Chair
+  position: Social Media Chair
+  year: Sophomore - MCB (Immunology) and Public Health
 
-- name: Kate Yang
+- name: Humayd Zameer
   pic: 3
-  position: Professional Development Chair
+  position: Secretary
+  year: Sophomore - MCB
 
-- name: Kate Yang
+- name: Ronit Nath
   pic: 3
-  position: Professional Development Chair
+  position: Webmaster
+  year: 4th year
 
-- name: Kate Yang
+- name: Mikayla Bordador
   pic: 3
-  position: Professional Development Chair
+  position: Underclassman Representative
+  year: Sophomore - Public Health + Music
 
-- name: Kate Yang
+- name: Nicole Klatt
   pic: 3
-  position: Professional Development Chair
+  position: Club Ambassador
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

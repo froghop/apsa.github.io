@@ -9,15 +9,20 @@
             </div>
             <div class="row">
                 {% for member in site.people %}
-                <div class="col-sm-4">
+                <div class="col-sm-3">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
+                        <p class="text-muted">{{ member.year }}</p>
                     </div>
                 </div>
                 {% endfor %}
             </div>
 
+            <h4>Want to join the team?</h4>
+            <p>Applications for board for the upcoming academic year typically go out early April, and elections
+                closely follow afterwards. We encourage anyone to apply, and the main requirement is that you’ve been
+                to one of our events/meetings before.</p>
         </div>
     </section>
