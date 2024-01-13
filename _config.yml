@@ -11,45 +11,34 @@ people:
 - name: Masha Bondarenko
   pic: 2
   position: President
- #* social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: stack-overflow
-#      url: #
 
 - name: Lavanya Gupta
   pic: 2
   position: Academic Chair
-#  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: linkedin
-#      url: #
 
 - name: Kate Yang
   pic: 3
   position: Professional Development Chair
-#  social:
-#    - title: twitter
-#      url: #
-#    - title: facebook
-#      url: #
-#    - title: google-plus
-#      url: #
-- - name: Isa Vivona
-    pic: 3
-    position: Social Media Chair
-  #  social:
-  #    - title: twitter
-  #      url: #
-  #    - title: facebook
-  #      url: #
-  #    - title: google-plus
-  #      url: #
+
+- name: Kate Yang
+  pic: 3
+  position: Professional Development Chair
+
+- name: Kate Yang
+  pic: 3
+  position: Professional Development Chair
+
+- name: Kate Yang
+  pic: 3
+  position: Professional Development Chair
+
+- name: Kate Yang
+  pic: 3
+  position: Professional Development Chair
+
+- name: Kate Yang
+  pic: 3
+  position: Professional Development Chair
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
