@@ -4,43 +4,52 @@ baseurl:
 # Site settings
 title: American Physician Scientists Association
 email: berkeleyapsa@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
+description:
 
 # Team names, titles and social links
 people:
 - name: Masha Bondarenko
   pic: 1
   position: President
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+ #* social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
 
-- name: Larry Parker
+- name: Lavanya Gupta
   pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  position: Academic Chair
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
 
-- name: Diana Petersen
+- name: Kate Yang
   pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  position: Professional Development Chair
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+- - name: Isa Vivona
+    pic: 3
+    position: Social Media Chair
+  #  social:
+  #    - title: twitter
+  #      url: #
+  #    - title: facebook
+  #      url: #
+  #    - title: google-plus
+  #      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
