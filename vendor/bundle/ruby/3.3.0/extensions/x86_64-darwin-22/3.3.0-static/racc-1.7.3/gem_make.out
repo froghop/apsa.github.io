@@ -1,0 +1,18 @@
+current directory: /Users/thecoolfamily/Desktop/apsaWeb/apsa.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/thecoolfamily/.rubies/ruby-3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/thecoolfamily/Desktop/apsaWeb/apsa.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240112-71578-c60i1v sitelibdir\=./.gem.20240112-71578-c60i1v clean
+
+current directory: /Users/thecoolfamily/Desktop/apsaWeb/apsa.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240112-71578-c60i1v sitelibdir\=./.gem.20240112-71578-c60i1v
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/thecoolfamily/Desktop/apsaWeb/apsa.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240112-71578-c60i1v sitelibdir\=./.gem.20240112-71578-c60i1v install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240112-71578-c60i1v/racc
+
+current directory: /Users/thecoolfamily/Desktop/apsaWeb/apsa.github.io/vendor/bundle/ruby/3.3.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240112-71578-c60i1v sitelibdir\=./.gem.20240112-71578-c60i1v clean
