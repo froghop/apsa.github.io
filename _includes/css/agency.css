@@ -127,8 +127,12 @@ fieldset[disabled] .btn-primary.active {
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+    background-color: #FDB515;
+    position: relative;
+    right: 455px;
+
 }
+
 
 .btn-xl:hover,
 .btn-xl:focus,
@@ -177,7 +181,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Georgia","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.data.template.color.primary }};
+    color: #FDB515; /*#{{ site.data.template.color.primary }};*/
 }
 
 .navbar-default .navbar-brand:hover,
@@ -285,21 +289,25 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: {{ site.data.template.font.secondary }};
+    font-family: "Times New Roman", Times, serif;
+    /*font-family: "Georgia","Helvetica Neue",Helvetica,Arial;{{ site.data.template.font.secondary }};*/
     font-size: 22px;
-    font-style: italic;
+    /*font-style: italic;*/
     line-height: 22px;
-    color: #FDB515;
+
+    color: #fff;
+    font-weight: 100;
     /*text-shadow: -2px 0 #C0913D, 0 2px #C0913D, 2px 0 #C0913D, 0 -2px #C0913D;*/
-    /* color: #013362;*/
-     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    /* color: #013362;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;*/
 
 }
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
+    /*text-transform: uppercase;*/
+    font-family: "Times New Roman", Times, serif;
+    /*font-family: {{ site.data.template.font.primary }};*/
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
@@ -312,20 +320,32 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text .intro-lead-in {
-        margin-bottom: 25px;
-        font-family: {{ site.data.template.font.secondary }};
-        font-size: 40px;
-        font-style: italic;
-        line-height: 40px;
+        /*font-family: {{ site.data.template.font.secondary }};
+        font-family: "Georgia","Helvetica Neue",Helvetica,Arial,cursive;*/
+        font-family: "Times New Roman", Times, serif;
+        font-size: 75px;
+        font-weight: 100;
+        line-height: 75px;
+        text-align: left;
+        margin-right: 450px;
+        margin-bottom: 20px;
+
     }
 
     header .intro-text .intro-heading {
-        margin-bottom: 50px;
+        margin-bottom: 60px;
+        text-align: left;
+        /*text-transform: uppercase;
+        font-family: {{ site.data.template.font.primary }};*/
+        font-family: "Helvetica Neue";
+        font-weight: 120;
+        color: #FDB515;
+
         text-transform: uppercase;
-        font-family: {{ site.data.template.font.primary }};
-        font-size: 75px;
-        font-weight: 700;
-        line-height: 75px;
+        font-size: 30px;
+        line-height: 1.2;
+        letter-spacing: -.02em;
+        margin-bottom: 0.625rem;
     }
 }
 
