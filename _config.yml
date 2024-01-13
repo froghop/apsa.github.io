@@ -9,7 +9,7 @@ description:
 # Team names, titles and social links
 people:
 - name: Masha Bondarenko
-  pic: 2
+  pic: 1
   position: President
   year: Senior - EECS
 
@@ -24,27 +24,27 @@ people:
   year: Freshman - Public Health
 
 - name: Isa Vivona
-  pic: 3
+  pic: 4
   position: Social Media Chair
   year: Sophomore - MCB (Immunology) and Public Health
 
 - name: Humayd Zameer
-  pic: 3
+  pic: 9
   position: Secretary
   year: Sophomore - MCB
 
 - name: Ronit Nath
-  pic: 3
+  pic: 9
   position: Webmaster
   year: 4th year
 
 - name: Mikayla Bordador
-  pic: 3
+  pic: 7
   position: Underclassman Representative
   year: Sophomore - Public Health + Music
 
 - name: Nicole Klatt
-  pic: 3
+  pic: 9
   position: Club Ambassador
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
