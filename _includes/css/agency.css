@@ -176,8 +176,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #C0913D /* #{{ site.data.template.color.primary }};*/
+    font-family: "Georgia","Helvetica Neue",Helvetica,Arial,cursive;
+    color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-brand:hover,
@@ -257,7 +257,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #003262;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/Sather-Gate-1.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -289,6 +289,11 @@ header .intro-text .intro-lead-in {
     font-size: 22px;
     font-style: italic;
     line-height: 22px;
+    color: #FDB515;
+    /*text-shadow: -2px 0 #C0913D, 0 2px #C0913D, 2px 0 #C0913D, 0 -2px #C0913D;*/
+    /* color: #013362;*/
+     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+
 }
 
 header .intro-text .intro-heading {
