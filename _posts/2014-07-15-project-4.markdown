@@ -1,14 +1,12 @@
 ---
-title: Workshops
-subtitle: Negotiating Job Offers Workshop
+title: Panel Events
+subtitle: Candidate Panel
 layout: default
-modal-id: 4
-date: 2014-07-15
-img: jobWorkshop.jpg
-thumbnail: jobWorkshop.jpg
+modal-id: 5
+img: mdPanel.png
+thumbnail: mdPanel.png
 alt: image-alt
-project-date: November
-client: Start Bootstrap
-category: Workshops
-description: We hold various career-oriented workshops.
+project-date: Oct
+category: Events
+description: We hold variety of events.
 ---

@@ -1,14 +1,12 @@
 ---
-title: Infosessions
-subtitle: MSTP Infosession
+title: Panel Events
+subtitle: Candidate Panel
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: infosession.jpeg
-thumbnail: infosession.jpeg
+img: apsaPanel.png
+thumbnail: apsaPanel.png
 alt: image-alt
-project-date: Thursday
-client: Info
-category: Infosession
-description: We hold various infosessions.
+project-date: October
+category: Workshops
+description: Workshops on MD/PhD program from current UCSF, Duke, & UCSD MST students about applying and pursuing their program.
 ---

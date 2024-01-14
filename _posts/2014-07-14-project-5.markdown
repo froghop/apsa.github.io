@@ -1,14 +1,12 @@
 ---
-title: Panel Events
-subtitle: Candidate Panel
+title: Workshops
+subtitle: Negotiating Job Offers Workshop
 layout: default
-modal-id: 5
-date: 2014-07-14
-img: apsaPanel.png
-thumbnail: apsaPanel.png
+modal-id: 4
+img: jobWorkshop.png
+thumbnail: jobWorkshop.png
 alt: image-alt
-project-date: Oct
-client: Start Bootstrap
-category: Events
-description: We hold variety of events.
+project-date: November
+category: Workshops
+description: We hold various career-oriented workshops.
 ---
