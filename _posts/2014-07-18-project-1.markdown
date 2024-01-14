@@ -8,6 +8,5 @@ thumbnail: alumChat.png
 alt: image-alt
 project-date: March 2022
 category: Workshops
-description: Workshop on applying and starting an MD-PhD program from a UC
-Berkeley Alumni!
+description: Workshop on applying and starting an MD-PhD program from a UC Berkeley Alumni!
 ---

@@ -1,10 +1,10 @@
 ---
-title: Panel Events
-subtitle: Candidate Panel
+title: MCAT Workshop
+subtitle: MCAT Prep
 layout: default
 modal-id: 5
-img: mdPanel.png
-thumbnail: mdPanel.png
+img: mcatWorkshop.png
+thumbnail: mcatWorkshop.png
 alt: image-alt
 project-date: Oct
 category: Events
