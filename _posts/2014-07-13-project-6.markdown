@@ -1,14 +1,14 @@
 ---
-title: APSA Social
-subtitle: Social Events
+title: APSA Socials
+subtitle: Socials
 layout: default
 modal-id: 6
-date: Feb 
+date: 2014-07-14
 img: apsaSocial.png
 thumbnail: apsaSocial.png
 alt: image-alt
 project-date: Feb
 client: Start Bootstrap
-category: socials
-description: socials
+category: Socials
+description: Socials Events
 ---
