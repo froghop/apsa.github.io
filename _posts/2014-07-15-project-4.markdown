@@ -7,6 +7,6 @@ img: mcatWorkshop.png
 thumbnail: mcatWorkshop.png
 alt: image-alt
 project-date: Oct
-category: Events
+category: Workshops
 description: We hold variety of events.
 ---
