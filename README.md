@@ -1,3 +1,7 @@
+Original modifications from kaurmahik22
+
+Deploy script enabled
+
 Agency Jekyll theme
 ====================
 
