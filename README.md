@@ -1,6 +1,16 @@
-Original modifications from kaurmahik22
+# (APSA Website)[https://apsa.berkeley.edu/] Pinned Notes
 
-Deploy script enabled
+*Original modifications from kaurmahik22*
+
+**Deploy script enabled**
+
+
+
+
+
+
+
+
 
 Agency Jekyll theme
 ====================
