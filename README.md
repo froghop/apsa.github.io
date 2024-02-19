@@ -1,4 +1,4 @@
-# (APSA Website)[https://apsa.berkeley.edu/] Pinned Notes
+# [APSA Website](https://apsa.berkeley.edu/) Pinned Notes
 
 *Original modifications from kaurmahik22*
 
