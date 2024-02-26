@@ -11,12 +11,22 @@ people:
 - name: Masha Bondarenko
   pic: 1
   position: President
-  year: Senior - EECS
+  year: Senior - Electrical Engineering & Computer Science
+
+- name: Nicole Klatt
+  pic: Nicole #8
+  position: Internal Vice President
+  year: Sophomore - MCB (Emphasis: Immunology) + Data Science
+
+- name: Mikayla Bordador
+  pic: 7
+  position: External Vice President
+  year: Sophomore - Human Integrative Biology + Public Health + Music
 
 - name: Lavanya Gupta
   pic: 2
   position: Academic Chair
-  year: Senior - MCB Emphasis Immunology
+  year: Senior - MCB (Emphasis: Immunology)
 
 - name: Kate Yang
   pic: 3
@@ -26,26 +36,22 @@ people:
 - name: Isa Vivona
   pic: 4
   position: Social Media Chair
-  year: Sophomore - MCB (Immunology) and Public Health
+  year: Sophomore - MCB (Emphasis: Immunology) + Public Health
 
 - name: Humayd Zameer
-  pic: 8
+  pic: Humayd #8
   position: Secretary
-  year: Sophomore - MCB
+  year: Sophomore - MCB (Emphasis: Neurobiology)
 
 - name: Ronit Nath
   pic: 8
-  position: Webmaster
-  year: 4th year
+  position: Technology Chair
+  year: Senior - Philosophy + Computer Science
 
-- name: Mikayla Bordador
-  pic: 7
-  position: Underclassman Representative
-  year: Sophomore - Public Health + Music
-
-- name: Nicole Klatt
-  pic: 8
-  position: Club Ambassador
+- name: Rableen Singh Ghuman
+  pic: Rableen #8
+  position: Technology Chair
+  year: Freshman - Neuroscience
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -58,8 +64,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: University of California, Berkeley
+  - line: Berkeley, CA 94704
 
 # Build settings
 markdown: kramdown
