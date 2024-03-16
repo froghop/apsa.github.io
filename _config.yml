@@ -70,3 +70,4 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+repository: froghop/apsa.github.io
